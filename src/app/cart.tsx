@@ -13,7 +13,7 @@ import { Button } from "@/components/button"
 import { formatCurrency } from "@/utils/functions/format-currency"
 import { LinkButton } from "@/components/link-button"
 
-const PHONE_NUMBER = "5519994192466"
+const PHONE_NUMBER = "2244112255"
 
 export default function Cart() {
     const [address, setAddress] = useState("")
